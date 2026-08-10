@@ -1,4 +1,4 @@
-# Rust to Silicon — Issue 010: Back from Hiatus, teenygrad 0.1.0, and Betting on RISC-V
+# Rust to Silicon — Issue 011: Back from Hiatus, teenygrad 0.1.0, and Betting on RISC-V
 
 ## What I promised vs. what shipped
 
@@ -42,7 +42,7 @@ I am currently working on SpacemiT K3 support (Milk-V hardware is on the way —
 
 ## Next week
 
-Shipping the release write-up, more demos, and starting the SpacemiT / RISC-V Triton backend work in earnest.
+Shipping the release write-up, and closing the performance gap with TensorRT. This means a new operator fusion backend added to the compiler.
 
 ---
 
